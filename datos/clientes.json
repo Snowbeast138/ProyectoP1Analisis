@@ -5,7 +5,8 @@
         "apellido": "Moreno",
         "email": "cliente1@ejemplo.com",
         "telefono": "555-6753",
-        "ciudad": "Leon"
+        "ciudad": "Leon",
+        "edad": 36
     },
     {
         "id_cliente": 2,
@@ -13,7 +14,8 @@
         "apellido": "Dominguez",
         "email": "cliente2@ejemplo.com",
         "telefono": "555-5115",
-        "ciudad": "Merida"
+        "ciudad": "Merida",
+        "edad": 43
     },
     {
         "id_cliente": 3,
@@ -21,7 +23,8 @@
         "apellido": "Romero",
         "email": "cliente3@ejemplo.com",
         "telefono": "555-9182",
-        "ciudad": "San Luis Potosi"
+        "ciudad": "San Luis Potosi",
+        "edad": 20
     },
     {
         "id_cliente": 4,
@@ -29,7 +32,8 @@
         "apellido": "Sanchez",
         "email": "cliente4@ejemplo.com",
         "telefono": "555-2787",
-        "ciudad": "Juarez"
+        "ciudad": "Juarez",
+        "edad": 22
     },
     {
         "id_cliente": 5,
@@ -37,7 +41,8 @@
         "apellido": "Torres",
         "email": "cliente5@ejemplo.com",
         "telefono": "555-3433",
-        "ciudad": "Tijuana"
+        "ciudad": "Tijuana",
+        "edad": 54
     },
     {
         "id_cliente": 6,
@@ -45,7 +50,8 @@
         "apellido": "Munoz",
         "email": "cliente6@ejemplo.com",
         "telefono": "555-3096",
-        "ciudad": "Puebla"
+        "ciudad": "Puebla",
+        "edad": 21
     },
     {
         "id_cliente": 7,
@@ -53,7 +59,8 @@
         "apellido": "Ruiz",
         "email": "cliente7@ejemplo.com",
         "telefono": "555-3191",
-        "ciudad": "San Luis Potosi"
+        "ciudad": "San Luis Potosi",
+        "edad": 39
     },
     {
         "id_cliente": 8,
@@ -61,7 +68,8 @@
         "apellido": "Dominguez",
         "email": "cliente8@ejemplo.com",
         "telefono": "555-8035",
-        "ciudad": "Puebla"
+        "ciudad": "Puebla",
+        "edad": 41
     },
     {
         "id_cliente": 9,
@@ -69,7 +77,8 @@
         "apellido": "Alonso",
         "email": "cliente9@ejemplo.com",
         "telefono": "555-5425",
-        "ciudad": "CDMX"
+        "ciudad": "CDMX",
+        "edad": 59
     },
     {
         "id_cliente": 10,
@@ -77,7 +86,8 @@
         "apellido": "Perez",
         "email": "cliente10@ejemplo.com",
         "telefono": "555-7114",
-        "ciudad": "CDMX"
+        "ciudad": "CDMX",
+        "edad": 54
     },
     {
         "id_cliente": 11,
@@ -85,7 +95,8 @@
         "apellido": "Martinez",
         "email": "cliente11@ejemplo.com",
         "telefono": "555-9479",
-        "ciudad": "Monterrey"
+        "ciudad": "Monterrey",
+        "edad": 52
     },
     {
         "id_cliente": 12,
@@ -93,7 +104,8 @@
         "apellido": "Gonzalez",
         "email": "cliente12@ejemplo.com",
         "telefono": "555-1314",
-        "ciudad": "Zapopan"
+        "ciudad": "Zapopan",
+        "edad": 33
     },
     {
         "id_cliente": 13,
@@ -101,7 +113,8 @@
         "apellido": "Perez",
         "email": "cliente13@ejemplo.com",
         "telefono": "555-8710",
-        "ciudad": "Guadalajara"
+        "ciudad": "Guadalajara",
+        "edad": 59
     },
     {
         "id_cliente": 14,
@@ -109,7 +122,8 @@
         "apellido": "Dominguez",
         "email": "cliente14@ejemplo.com",
         "telefono": "555-8119",
-        "ciudad": "Leon"
+        "ciudad": "Leon",
+        "edad": 63
     },
     {
         "id_cliente": 15,
@@ -117,7 +131,8 @@
         "apellido": "Gomez",
         "email": "cliente15@ejemplo.com",
         "telefono": "555-9918",
-        "ciudad": "Tijuana"
+        "ciudad": "Tijuana",
+        "edad": 52
     },
     {
         "id_cliente": 16,
@@ -125,7 +140,8 @@
         "apellido": "Lopez",
         "email": "cliente16@ejemplo.com",
         "telefono": "555-9772",
-        "ciudad": "Guadalajara"
+        "ciudad": "Guadalajara",
+        "edad": 32
     },
     {
         "id_cliente": 17,
@@ -133,7 +149,8 @@
         "apellido": "Garcia",
         "email": "cliente17@ejemplo.com",
         "telefono": "555-9173",
-        "ciudad": "Monterrey"
+        "ciudad": "Monterrey",
+        "edad": 41
     },
     {
         "id_cliente": 18,
@@ -141,7 +158,8 @@
         "apellido": "Torres",
         "email": "cliente18@ejemplo.com",
         "telefono": "555-1064",
-        "ciudad": "Merida"
+        "ciudad": "Merida",
+        "edad": 38
     },
     {
         "id_cliente": 19,
@@ -149,7 +167,8 @@
         "apellido": "Diaz",
         "email": "cliente19@ejemplo.com",
         "telefono": "555-9866",
-        "ciudad": "Juarez"
+        "ciudad": "Juarez",
+        "edad": 25
     },
     {
         "id_cliente": 20,
@@ -157,7 +176,8 @@
         "apellido": "Gutierrez",
         "email": "cliente20@ejemplo.com",
         "telefono": "555-9700",
-        "ciudad": "CDMX"
+        "ciudad": "CDMX",
+        "edad": 39
     },
     {
         "id_cliente": 21,
@@ -165,7 +185,8 @@
         "apellido": "Munoz",
         "email": "cliente21@ejemplo.com",
         "telefono": "555-7333",
-        "ciudad": "Zapopan"
+        "ciudad": "Zapopan",
+        "edad": 49
     },
     {
         "id_cliente": 22,
@@ -173,7 +194,8 @@
         "apellido": "Moreno",
         "email": "cliente22@ejemplo.com",
         "telefono": "555-6086",
-        "ciudad": "Zapopan"
+        "ciudad": "Zapopan",
+        "edad": 49
     },
     {
         "id_cliente": 23,
@@ -181,7 +203,8 @@
         "apellido": "Rodriguez",
         "email": "cliente23@ejemplo.com",
         "telefono": "555-1389",
-        "ciudad": "CDMX"
+        "ciudad": "CDMX",
+        "edad": 31
     },
     {
         "id_cliente": 24,
@@ -189,6 +212,7 @@
         "apellido": "Alonso",
         "email": "cliente24@ejemplo.com",
         "telefono": "555-8041",
-        "ciudad": "Guadalajara"
+        "ciudad": "Guadalajara",
+        "edad": 42
     }
 ]
