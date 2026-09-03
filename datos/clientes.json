@@ -1,0 +1,194 @@
+[
+    {
+        "id_cliente": 1,
+        "nombre": "Juan",
+        "apellido": "Moreno",
+        "email": "cliente1@ejemplo.com",
+        "telefono": "555-6753",
+        "ciudad": "Leon"
+    },
+    {
+        "id_cliente": 2,
+        "nombre": "Diego",
+        "apellido": "Dominguez",
+        "email": "cliente2@ejemplo.com",
+        "telefono": "555-5115",
+        "ciudad": "Merida"
+    },
+    {
+        "id_cliente": 3,
+        "nombre": "Carlos",
+        "apellido": "Romero",
+        "email": "cliente3@ejemplo.com",
+        "telefono": "555-9182",
+        "ciudad": "San Luis Potosi"
+    },
+    {
+        "id_cliente": 4,
+        "nombre": "Paula",
+        "apellido": "Sanchez",
+        "email": "cliente4@ejemplo.com",
+        "telefono": "555-2787",
+        "ciudad": "Juarez"
+    },
+    {
+        "id_cliente": 5,
+        "nombre": "Jorge",
+        "apellido": "Torres",
+        "email": "cliente5@ejemplo.com",
+        "telefono": "555-3433",
+        "ciudad": "Tijuana"
+    },
+    {
+        "id_cliente": 6,
+        "nombre": "Raul",
+        "apellido": "Munoz",
+        "email": "cliente6@ejemplo.com",
+        "telefono": "555-3096",
+        "ciudad": "Puebla"
+    },
+    {
+        "id_cliente": 7,
+        "nombre": "Jorge",
+        "apellido": "Ruiz",
+        "email": "cliente7@ejemplo.com",
+        "telefono": "555-3191",
+        "ciudad": "San Luis Potosi"
+    },
+    {
+        "id_cliente": 8,
+        "nombre": "Paula",
+        "apellido": "Dominguez",
+        "email": "cliente8@ejemplo.com",
+        "telefono": "555-8035",
+        "ciudad": "Puebla"
+    },
+    {
+        "id_cliente": 9,
+        "nombre": "Miguel",
+        "apellido": "Alonso",
+        "email": "cliente9@ejemplo.com",
+        "telefono": "555-5425",
+        "ciudad": "CDMX"
+    },
+    {
+        "id_cliente": 10,
+        "nombre": "Maria",
+        "apellido": "Perez",
+        "email": "cliente10@ejemplo.com",
+        "telefono": "555-7114",
+        "ciudad": "CDMX"
+    },
+    {
+        "id_cliente": 11,
+        "nombre": "Jose",
+        "apellido": "Martinez",
+        "email": "cliente11@ejemplo.com",
+        "telefono": "555-9479",
+        "ciudad": "Monterrey"
+    },
+    {
+        "id_cliente": 12,
+        "nombre": "Sara",
+        "apellido": "Gonzalez",
+        "email": "cliente12@ejemplo.com",
+        "telefono": "555-1314",
+        "ciudad": "Zapopan"
+    },
+    {
+        "id_cliente": 13,
+        "nombre": "Alejandro",
+        "apellido": "Perez",
+        "email": "cliente13@ejemplo.com",
+        "telefono": "555-8710",
+        "ciudad": "Guadalajara"
+    },
+    {
+        "id_cliente": 14,
+        "nombre": "Carlos",
+        "apellido": "Dominguez",
+        "email": "cliente14@ejemplo.com",
+        "telefono": "555-8119",
+        "ciudad": "Leon"
+    },
+    {
+        "id_cliente": 15,
+        "nombre": "Juan",
+        "apellido": "Gomez",
+        "email": "cliente15@ejemplo.com",
+        "telefono": "555-9918",
+        "ciudad": "Tijuana"
+    },
+    {
+        "id_cliente": 16,
+        "nombre": "Marta",
+        "apellido": "Lopez",
+        "email": "cliente16@ejemplo.com",
+        "telefono": "555-9772",
+        "ciudad": "Guadalajara"
+    },
+    {
+        "id_cliente": 17,
+        "nombre": "Maria",
+        "apellido": "Garcia",
+        "email": "cliente17@ejemplo.com",
+        "telefono": "555-9173",
+        "ciudad": "Monterrey"
+    },
+    {
+        "id_cliente": 18,
+        "nombre": "Ana",
+        "apellido": "Torres",
+        "email": "cliente18@ejemplo.com",
+        "telefono": "555-1064",
+        "ciudad": "Merida"
+    },
+    {
+        "id_cliente": 19,
+        "nombre": "Juan",
+        "apellido": "Diaz",
+        "email": "cliente19@ejemplo.com",
+        "telefono": "555-9866",
+        "ciudad": "Juarez"
+    },
+    {
+        "id_cliente": 20,
+        "nombre": "Elena",
+        "apellido": "Gutierrez",
+        "email": "cliente20@ejemplo.com",
+        "telefono": "555-9700",
+        "ciudad": "CDMX"
+    },
+    {
+        "id_cliente": 21,
+        "nombre": "Sofia",
+        "apellido": "Munoz",
+        "email": "cliente21@ejemplo.com",
+        "telefono": "555-7333",
+        "ciudad": "Zapopan"
+    },
+    {
+        "id_cliente": 22,
+        "nombre": "Alejandro",
+        "apellido": "Moreno",
+        "email": "cliente22@ejemplo.com",
+        "telefono": "555-6086",
+        "ciudad": "Zapopan"
+    },
+    {
+        "id_cliente": 23,
+        "nombre": "Lucia",
+        "apellido": "Rodriguez",
+        "email": "cliente23@ejemplo.com",
+        "telefono": "555-1389",
+        "ciudad": "CDMX"
+    },
+    {
+        "id_cliente": 24,
+        "nombre": "Sofia",
+        "apellido": "Alonso",
+        "email": "cliente24@ejemplo.com",
+        "telefono": "555-8041",
+        "ciudad": "Guadalajara"
+    }
+]

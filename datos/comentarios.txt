@@ -1,0 +1,32 @@
+ID_Reseña | Calificación | Sentimiento | Comentario
+--------------------------------------------------------------------------------
+001 | 5 Estrellas | Bueno     | Muy rápido y eficiente, llegó al día siguiente.
+002 | 2 Estrellas | Malo      | Se descompuso a la semana de uso intensivo.
+003 | 5 Estrellas | Bueno     | La mejor compra que he hecho este año.
+004 | 5 Estrellas | Bueno     | La mejor compra que he hecho este año.
+005 | 3 Estrellas | Neutral   | Buen precio pero los materiales se sienten baratos.
+006 | 3 Estrellas | Neutral   | Buen precio pero los materiales se sienten baratos.
+007 | 3 Estrellas | Neutral   | Buen precio pero los materiales se sienten baratos.
+008 | 4 Estrellas | Bueno     | Muy buena calidad, pero el envío tardó demasiado.
+009 | 3 Estrellas | Neutral   | Funciona bien, aunque es un poco complicado de instalar.
+010 | 1 Estrellas | Malo      | Pésimo servicio de atención al cliente.
+011 | 1 Estrellas | Malo      | No funcionó desde el primer día, dinero a la basura.
+012 | 2 Estrellas | Malo      | Se descompuso a la semana de uso intensivo.
+013 | 1 Estrellas | Malo      | Pésimo servicio de atención al cliente.
+014 | 5 Estrellas | Bueno     | Muy rápido y eficiente, llegó al día siguiente.
+015 | 5 Estrellas | Bueno     | La mejor compra que he hecho este año.
+016 | 3 Estrellas | Neutral   | Buen precio pero los materiales se sienten baratos.
+017 | 2 Estrellas | Malo      | No es lo que esperaba, voy a iniciar la devolución.
+018 | 3 Estrellas | Neutral   | Funciona bien, aunque es un poco complicado de instalar.
+019 | 3 Estrellas | Neutral   | El color no es como en la foto, pero está pasable.
+020 | 5 Estrellas | Bueno     | La mejor compra que he hecho este año.
+021 | 2 Estrellas | Malo      | No es lo que esperaba, voy a iniciar la devolución.
+022 | 3 Estrellas | Neutral   | Funciona bien, aunque es un poco complicado de instalar.
+023 | 5 Estrellas | Bueno     | Muy rápido y eficiente, llegó al día siguiente.
+024 | 3 Estrellas | Neutral   | Funciona bien, aunque es un poco complicado de instalar.
+025 | 5 Estrellas | Bueno     | Excelente producto, superó mis expectativas.
+026 | 1 Estrellas | Malo      | Pésimo servicio de atención al cliente.
+027 | 3 Estrellas | Neutral   | Buen precio pero los materiales se sienten baratos.
+028 | 3 Estrellas | Neutral   | Cumple su función, nada extraordinario.
+029 | 3 Estrellas | Neutral   | Funciona bien, aunque es un poco complicado de instalar.
+030 | 2 Estrellas | Malo      | Se descompuso a la semana de uso intensivo.
