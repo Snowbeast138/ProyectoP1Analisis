@@ -28,4 +28,3 @@ id_venta,id_cliente,id_producto,fecha,cantidad,precio_unitario
 27,20,12,2026-03-20,2,1400.0
 28,12,8,2026-03-03,1,8000.0
 29,10,10,2026-04-02,1,1500.0
-

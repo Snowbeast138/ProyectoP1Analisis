@@ -28,3 +28,4 @@ print("--------------------------------")
 promedio_importe = ventas["importe"].mean()
 print("Promedio de importe:", promedio_importe)
 
+print(ventas.to_string())
